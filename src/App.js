@@ -1,5 +1,5 @@
 import React from 'react';
-import WineStats from './wineStats'; // Adjust the import path
+import WineStats from './components/wineStats'; // Adjust the import path
 
 function App() {
 return (

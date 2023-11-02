@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { wineDataset } from './data';
+import { wineDataset } from '../data';
 
 
 
