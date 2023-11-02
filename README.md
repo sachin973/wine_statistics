@@ -24,31 +24,6 @@ To use this component, follow these steps:
 
 4. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to see the component in action.
 
-## Usage
-
-This component does the following:
-
-- Calculates the mean, median, and mode of Flavanoids and Gamma properties for different wine classes.
-
-## Example
-
-Here's how you can use the WineStats component in your React application:
-
-```jsx
-// import React from 'react';
-// import WineStats from './WineStats';  Adjust the import path
-
-// function App() {
-// return (
-//  <div>
-//    <h1>Wine Statistics</h1>
-//    <WineStats />
-//  </div>
-// );
-// }
-
-// export default App;
-
 ## Building the Project for Production
 
 To build the project for production, follow these steps:
@@ -61,3 +36,28 @@ To build the project for production, follow these steps:
   ## yarn install
 
   yarn run build or npm run build
+## Usage
+
+This component does the following:
+
+- Calculates the mean, median, and mode of Flavanoids and Gamma properties for different wine classes.
+
+## Example
+
+Here's how you can use the WineStats component in your React application:
+
+```jsx
+import React from 'react';
+import WineStats from './WineStats'; // Adjust the import path
+
+function App() {
+return (
+ <div>
+   <h1>Wine Statistics</h1>
+   <WineStats />
+ </div>
+);
+}
+
+export default App;
+
