@@ -1,3 +1,10 @@
+## Visualize data
+
+
+![Image Alt Text](/public/visualize_data.png)
+
+
+
 # Wine Statistics React Component
 
 This React component calculates and displays statistics for a wine dataset. It provides information about Flavanoids and Gamma properties for different classes of wine.
