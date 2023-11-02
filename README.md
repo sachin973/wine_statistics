@@ -49,4 +49,15 @@ return (
 
 export default App;
 
+## Building the Project for Production
 
+To build the project for production, follow these steps:
+
+1. Clone or download the repository to your local machine.
+
+2. Install the necessary dependencies by running:
+
+  
+  ## yarn install
+
+  yarn run build or npm run build
